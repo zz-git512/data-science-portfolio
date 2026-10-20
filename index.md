@@ -18,5 +18,7 @@ MY name is Zhang YiFan.I am a data science student at the University of Macau, w
   2. Income vs. poverty rate scatter plot.
   3. Top-5 vs. bottom-5 states slope chart from 2022 to 2023.
 - **Findings**: The income gap between the top-5 and bottom-5 states widened from 2022 to 2023. States with higher median income tend to have lower poverty rates.
+- **Data source**: USDA ERS state-level data
+- **Methods**: pandas data cleaning, matplotlib visualizations
 - **Repository**: https://github.com/zz-git512/data-science-project
 - **Status**: ongoing
